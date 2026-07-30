@@ -1,4 +1,4 @@
-# 🧩 Vinexel Framework — Changelog
+# Vinexel Framework — Changelog
 
 All notable changes to this project will be documented in this file.  
 This project adheres to [Semantic Versioning](https://semver.org/).
@@ -7,7 +7,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [v1.0.0] - 2025-10-19
 
-### 🎉 Initial Release
+### Initial Release
 
 - First public release of **Vinexel Framework 1.x**
 - Introduced **H-MVC Architecture** structure:
@@ -27,7 +27,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-### 🚧 Upcoming Features (planned for 1.x minor update)
+### Upcoming Features (planned for 1.x minor update)
 
 - CLI tool: `vision` and `vision make:controller`
 - Built-in RESTful API scaffolding
@@ -38,7 +38,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
-## 🗓️ Versioning Policy
+## Versioning Policy
 
 Vinexel follows **semantic versioning** (`MAJOR.MINOR.PATCH`):
 
@@ -48,7 +48,7 @@ Vinexel follows **semantic versioning** (`MAJOR.MINOR.PATCH`):
 
 ---
 
-## 🧠 Credits
+## Credits
 
 Vinexel Framework is built and maintained by the **Vinexel Pioneers** —  
 a community of developers crafting automated, multi-domain ecosystems.
